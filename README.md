@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning deep learning.
 - 📫 How to reach me: jason032089@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonChang0320&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonChang0320&layout=compact)
 
 ### Master Degree Research:
 
