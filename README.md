@@ -6,7 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonChang0320&layout=compact)
 
-### Master Degree Research:
+### Master's Degree Research:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasonChang0320&repo=TT-SAM)](https://github.com/JasonChang0320/TT-SAM)
 
