@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning deep learning.
 - 📫 How to reach me: jason032089@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonChang0320&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonChang0320&layout=compact)]
 
 ### Master Degree Research:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasonChang0320&repo=TT-SAM)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasonChang0320&repo=TT-SAM)](https://github.com/JasonChang0320/TT-SAM)
 
 
